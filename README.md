@@ -7,6 +7,8 @@ https://user-images.githubusercontent.com/14987609/212026331-58dd1808-7ed2-4f4e-
 Currently only uses Google, but you can easily change it by editing line 99.
 
 # How to install: 
+0) Download this repo
+
 1) Enable css customization (not sure if required, but modding Vivaldi is a rabbit hole so you will eventually want to enable it)
 https://forum.vivaldi.net/topic/10549/modding-vivaldi
 
